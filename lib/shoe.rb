@@ -14,7 +14,7 @@ class Shoe
       if !(BRANDS.include?(shoe))
         BRANDS << brand 
       end
-  
+  end
   end
 
   def cobble
